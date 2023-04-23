@@ -4,8 +4,8 @@
 
 **Glomfig** [glomfig.co](https://glomfig.co)
 
-**Disrooted Lyrics:** [lyrics.disrooted.net](https://lyrics.disrooted.net)
+**Disrooted lyrics:** [lyrics.disrooted.net](https://lyrics.disrooted.net)
 
 ## Old
 
-**Pomodorino:**: [pomodorino.sneikki.lol](https://pomodorino.sneikki.lol)
+**Pomodorino:** [pomodorino.sneikki.lol](https://pomodorino.sneikki.lol)
