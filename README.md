@@ -1,11 +1,11 @@
-# Links to my some of my projects
+## Glomfig
 
-## Recent
+**[glomfig.co](https://glomfig.co)**
 
-**Glomfig** [glomfig.co](https://glomfig.co)
+## Tidgrid
 
-**Disrooted lyrics:** [lyrics.disrooted.net](https://lyrics.disrooted.net)
+**[tidgrid.dev](https://tidgrid.dev)**
 
-## Old
+## Disrooted Lyrics
 
-**Pomodorino:** [pomodorino.sneikki.lol](https://pomodorino.sneikki.lol)
+**[lyrics.disrooted.net](https://lyrics.disrooted.net)**
